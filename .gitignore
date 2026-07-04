@@ -1,0 +1,7 @@
+# Ignore the dedicated build/bin directories anywhere in the project
+**/bin/
+**/build/
+
+# Ignore common explicit executable extensions (if you use them)
+*.out
+*.exe
